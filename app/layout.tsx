@@ -30,11 +30,11 @@ const vazirmatn = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "آرایشگاه مردانه مهران | Modern Men's Barbershop",
-  description: "یک آرایشگاه مردانه مهران با خدمات حرفه‌ای و با کیفیت",
+  title: "آرایشگاه مردانه مدرن | Modern Men's Barbershop",
+  description: "یک آرایشگاه مردانه مدرن با خدمات حرفه‌ای و با کیفیت",
   openGraph: {
-    title: "آرایشگاه مردانه مهران | Modern Men's Barbershop",
-    description: "یک آرایشگاه مردانه مهران با خدمات حرفه‌ای و با کیفیت",
+    title: "آرایشگاه مردانه مدرن | Modern Men's Barbershop",
+    description: "یک آرایشگاه مردانه مدرن با خدمات حرفه‌ای و با کیفیت",
     type: "website",
   },
 };

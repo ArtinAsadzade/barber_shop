@@ -52,11 +52,11 @@ export function Header() {
         isScrolled ? "bg-background/80 backdrop-blur-sm shadow-sm" : "bg-transparent"
       )}
     >
-      <div className="container flex h-16 items-center justify-between py-4">
+      <div className="container mx-auto flex h-16 items-center justify-between py-4">
         <div className="flex items-center gap-2">
           <Link href="/" className="flex items-center gap-2">
             <Scissors className="h-6 w-6" />
-            <span className="hidden font-bold sm:inline-block text-lg">آرایشگاه مهران</span>
+            <span className="font-bold inline-block text-lg">آرایشگاه مهران</span>
           </Link>
         </div>
 
