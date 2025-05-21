@@ -9,7 +9,7 @@ export default function Home() {
     <div className="flex flex-col min-h-screen">
       {/* Hero Section */}
       <section className="relative h-[85vh] flex items-center">
-        <div className=" absolute inset-0 z-0">
+        {/* <div className=" absolute inset-0 z-0">
           <Image
             src="https://images.pexels.com/photos/1813272/pexels-photo-1813272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt="آرایشگاه مردانه"
@@ -17,7 +17,7 @@ export default function Home() {
             className="object-cover brightness-[0.35]"
             priority
           />
-        </div>
+        </div> */}
         <div className="container relative z-10 px-4 mx-auto">
           <div className="max-w-2xl animate-fade-up opacity-0" style={{ animationDelay: "0.2s" }}>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
